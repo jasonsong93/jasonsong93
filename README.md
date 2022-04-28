@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello World, 你好世界, नमस्ते दुनिया! 👋
+Curious software developer with a keen interest in education, esports and music.
 - 🌱 Currently a Computer Science student
 - 👯 I’m looking to collaborate on any open source projects
 - 💬 Ask me about tech, music and ERP software
